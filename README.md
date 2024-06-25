@@ -1,6 +1,4 @@
-Certainly! Here's a sample "README.md" file for your GitHub profile:
 
-```markdown
 # Hi there! 👋 I'm Heeba Ghori
 
 Welcome to my GitHub profile! I'm passionate about mastering all programming languages and exploring the depths of software development. Here's a quick overview of my journey through the world of programming languages, 🚀 one step at a time:
@@ -36,4 +34,4 @@ And the list continues to grow! 💡 I believe in continuous learning and levera
 Feel free to explore my repositories and reach out. Happy coding! 🌟
 ```
 
-Feel free to modify and personalize it further to better suit your style and preferences!
+
